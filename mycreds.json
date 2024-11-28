@@ -1,0 +1,8 @@
+{
+  "engine": "mysql",
+  "username": "main",
+  "password": "lab-password",
+  "host": "lab-db.clwbfefp8j0h.us-east-1.rds.amazonaws.com",
+  "dbname": "lab",
+  "port": "3306"
+}
